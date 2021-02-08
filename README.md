@@ -1,1 +1,1 @@
-# Optimization_wind_farm
+# Optimization of wind farm layout. 
